@@ -46,6 +46,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
     <img alt="Web" src=".github/ecoleta-web.gif" width="900px">
 </h1>
 
+#### Mobile:
+
+<h1 align="center">
+    <img alt="Mobile" src=".github/ecoleta-mobile.gif" width="400px">
+</h1>
+
 <a id="como-usar"></a>
 
 ## :fire: Como usar
@@ -68,6 +74,11 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
   # WEB
   $ cd web
+  $ npm install
+  $ npm run start
+
+  # MOBILE
+  $ cd mobile
   $ npm install
   $ npm run start
 ```
